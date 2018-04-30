@@ -7,3 +7,17 @@
     width: 200px;
     height: 50px;
 }
+
+.fix-dorucak{
+    border: 1px solid gray;
+    border-radius: 11px;
+    background-color: darkgray;
+    box-shadow: 3px 3px 3px 3px;
+}
+
+.container-moj{
+    width: 100%;
+    padding: 10px;
+    margin: 0 auto;
+
+}
