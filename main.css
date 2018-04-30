@@ -9,15 +9,29 @@
 }
 
 .fix-dorucak{
-    border: 1px solid gray;
+    border: 2px solid rgb(99, 67, 67);
     border-radius: 11px;
-    background-color: darkgray;
     box-shadow: 3px 3px 3px 3px;
 }
 
 .container-moj{
-    width: 100%;
+    width: 99%;
     padding: 10px;
+    padding-right: 10px
     margin: 0 auto;
 
+}
+.fix-rucak{
+    border: 2px solid rgb(99, 67, 67);
+    border-radius: 11px;
+    box-shadow: 3px 3px 3px 3px;
+}
+.fix-vecera{
+    border: 2px solid rgb(99, 67, 67);
+    border-radius: 11px;
+    box-shadow: 3px 3px 3px 3px;
+}
+.moj-row{
+    padding-top: 15px;
+    padding-left: 30px;
 }
